@@ -1,4 +1,7 @@
 # Winter School 2026 — Hysteresis Modeling and Control for Precision Actuation
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/Flores_PiezoControl_Workshop2026.ipynb)
+
 
 **Dr. Gerardo Flores**  
 Associate Professor — Texas A&M International University (TAMIU)  
