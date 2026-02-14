@@ -5,7 +5,7 @@ Hysteresis models
 
 Control system
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID.ipynb)
+(https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID.ipynb)
 
 
 **Dr. Gerardo Flores**  
