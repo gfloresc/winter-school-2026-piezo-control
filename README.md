@@ -1,6 +1,11 @@
 # Winter School 2026 — Hysteresis Modeling and Control for Precision Actuation
+Hysteresis models
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/Flores_PiezoControl_Workshop2026.ipynb)
+
+Control system
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://github.com/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID.ipynb)
 
 
 **Dr. Gerardo Flores**  
