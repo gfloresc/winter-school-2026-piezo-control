@@ -20,7 +20,7 @@ You can edit freely without affecting the original files.
 
 ---
 
-### ▶ Option 2 — Run locally in Jupyter Notebook (recommended for stability)
+### ▶ Option 2 — Run locally in Jupyter Notebook
 
 1. Install Anaconda (includes Python + Jupyter):  
    https://www.anaconda.com/download
@@ -33,7 +33,7 @@ Local execution is faster and does not depend on internet or Colab limits.
 
 ---
 
-### ▶ Option 3 — Run online with Binder (if Colab has no credits)
+### ▶ Option 3 — Run online with Binder (recommended if Colab has no credits)
 
 Hysteresis models  
 [![Open in Binder](https://mybinder.org/badge_logo.svg)]
