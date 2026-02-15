@@ -31,10 +31,16 @@ Code → Download ZIP
 3. Open Jupyter Notebook and run the `.ipynb` file.
 Local execution is faster and does not depend on internet or Colab limits.
 
-**Dr. Gerardo Flores**  
-Associate Professor — Texas A&M International University (TAMIU)  
-RAPTOR Lab — Robotics and Autonomous Platforms  
-Laredo, Texas, USA  
+---
+
+### ▶ Option 3 — Run online with Binder (if Colab has no credits)
+Launch a free online Jupyter environment directly from this repository:
+
+[![Open in Binder](https://mybinder.org/badge_logo.svg)]
+(https://mybinder.org/v2/gh/gfloresc/winter-school-2026-piezo-control/main)
+
+Binder runs Jupyter online without installation or Colab usage limits.  
+It may take about 30–60 seconds to start.  
 
 ---
 
@@ -126,8 +132,9 @@ MIT License.
 ## 👨‍🏫 Instructor
 
 **Dr. Gerardo Flores**  
-Director, RAPTOR Lab  
-Texas A&M International University  
+Associate Professor — Texas A&M International University (TAMIU)  
+RAPTOR Lab — Robotics and Autonomous Platforms  
+Laredo, Texas, USA
 
 Research areas:
 - Nonlinear control
