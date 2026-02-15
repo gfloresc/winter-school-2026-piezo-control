@@ -1,5 +1,57 @@
 # Winter School 2026 — Hysteresis Modeling and Control for Precision Actuation
 
+## 📘 Course Title
+**Hysteresis-Based Modeling and Control of Piezoelectric Actuators for Precision Manipulation**
+
+Winter School 2026 — Invited Lecture
+
+---
+
+## 📖 Overview
+
+Piezoelectric actuators are widely used in precision manipulation due to their high resolution and bandwidth. However, their performance is strongly affected by intrinsic hysteresis nonlinearities, which may degrade accuracy or compromise closed-loop stability if not properly addressed.
+
+This repository contains all lecture materials for the Winter School 2026 course on hysteresis modeling and control, including:
+
+- Classical and generalized Bouc–Wen models  
+- Dahl hysteresis model  
+- Hysteresis-aware control strategies  
+- Interactive simulation tools  
+- Lecture slides and reference papers  
+
+The goal is to provide a unified modeling and control perspective for precision piezoelectric actuation and nonlinear systems with hysteresis.
+
+---
+
+## 📂 Repository Structure
+
+winter-school-2026-piezo-control/
+│
+├── papers/ → Reference research papers
+├── slides/ → Lecture slides (PDF)
+├── notebooks/ → Interactive simulations and notebooks
+└── README.md
+
+---
+
+## 💻 Interactive Simulations
+
+This course includes Python interactive simulations for:
+
+- Time-domain and hysteresis loop visualization for:
+   - Classical Bouc–Wen hysteresis
+   - Generalized Bouc–Wen hysteresis
+   - Dahl model
+- Robust output feedback control vs PID control simulation for a robotic manipulator with Classical Bouc–Wen model
+
+Recommended platform:
+
+**Google Colab (no installation required)**
+
+Students can run simulations directly in the browser.
+
+---
+
 ## 🚀 Open the notebook
 
 You can run this notebook in two ways:
@@ -45,59 +97,6 @@ Control system
 
 Binder launches a free online Jupyter environment directly from this repository.  
 The first launch may take 1–2 minutes while packages are installed.
-
----
-
-## 📘 Course Title
-**Hysteresis-Based Modeling and Control of Piezoelectric Actuators for Precision Manipulation**
-
-Winter School 2026 — Invited Lecture
-
----
-
-## 📖 Overview
-
-Piezoelectric actuators are widely used in precision manipulation due to their high resolution and bandwidth. However, their performance is strongly affected by intrinsic hysteresis nonlinearities, which may degrade accuracy or compromise closed-loop stability if not properly addressed.
-
-This repository contains all lecture materials for the Winter School 2026 course on hysteresis modeling and control, including:
-
-- Classical and generalized Bouc–Wen models  
-- Dahl hysteresis model  
-- Hysteresis-aware control strategies  
-- Interactive simulation tools  
-- Lecture slides and reference papers  
-
-The goal is to provide a unified modeling and control perspective for precision piezoelectric actuation and nonlinear systems with hysteresis.
-
----
-
-## 📂 Repository Structure
-
-winter-school-2026-piezo-control/
-│
-├── papers/ → Reference research papers
-├── slides/ → Lecture slides (PDF)
-├── code/ → Interactive simulations and notebooks
-├── figures/ → Images and diagrams used in lecture
-└── README.md
-
-
----
-
-## 💻 Interactive Simulations
-
-This course includes Python interactive simulations for:
-
-- Classical Bouc–Wen hysteresis
-- Generalized Bouc–Wen models
-- Dahl friction model
-- Time-domain and hysteresis loop visualization
-
-Recommended platform:
-
-**Google Colab (no installation required)**
-
-Students can run simulations directly in the browser.
 
 ---
 
