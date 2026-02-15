@@ -7,7 +7,6 @@ Control system
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID_2026.ipynb)
 
-
 **Dr. Gerardo Flores**  
 Associate Professor — Texas A&M International University (TAMIU)  
 RAPTOR Lab — Robotics and Autonomous Platforms  
