@@ -23,14 +23,16 @@ The goal is to provide a unified modeling and control perspective for precision 
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
+```
 winter-school-2026-piezo-control/
 │
-├── papers/ → Reference research papers
-├── slides/ → Lecture slides (PDF)
-├── notebooks/ → Interactive simulations and notebooks
+├── papers/     → Reference research papers
+├── slides/     → Lecture slides (PDF)
+├── notebooks/  → Interactive simulations and notebooks
 └── README.md
+```
 
 ---
 
