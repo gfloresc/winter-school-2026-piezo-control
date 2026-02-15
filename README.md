@@ -34,13 +34,17 @@ Local execution is faster and does not depend on internet or Colab limits.
 ---
 
 ### ▶ Option 3 — Run online with Binder (if Colab has no credits)
-Launch a free online Jupyter environment directly from this repository:
 
+Hysteresis models  
 [![Open in Binder](https://mybinder.org/badge_logo.svg)]
-(https://mybinder.org/v2/gh/gfloresc/winter-school-2026-piezo-control/main)
+(https://mybinder.org/v2/gh/gfloresc/winter-school-2026-piezo-control/main?labpath=notebooks/Flores_PiezoControl_Workshop2026.ipynb)
 
-Binder runs Jupyter online without installation or Colab usage limits.  
-It may take about 30–60 seconds to start.  
+Control system  
+[![Open in Binder](https://mybinder.org/badge_logo.svg)]
+(https://mybinder.org/v2/gh/gfloresc/winter-school-2026-piezo-control/main?labpath=notebooks/PiezoControl_RobustVsPID_2026.ipynb)
+
+Binder launches a free online Jupyter environment directly from this repository.  
+It may take about 30–60 seconds to start.
 
 ---
 
