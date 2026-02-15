@@ -1,11 +1,35 @@
 # Winter School 2026 — Hysteresis Modeling and Control for Precision Actuation
+
+## 🚀 Open the notebook
+
+You can run this notebook in two ways:
+
+### ▶ Option 1 — Open in Google Colab (no installation)
+Click below to run instantly in the cloud:
+
 Hysteresis models
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/Flores_PiezoControl_Workshop2026.ipynb)
+(https://github.com/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/Flores_PiezoControl_Workshop2026.ipynb)
 
 Control system
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://github.com/gfloresc/winter-school-2026-piezo-control/blob/main/notebooks/PiezoControl_RobustVsPID_2026.ipynb)
+
+This creates your own copy.  
+You can edit freely without affecting the original files.
+
+---
+
+### ▶ Option 2 — Run locally in Jupyter Notebook (recommended for stability)
+
+1. Install Anaconda (includes Python + Jupyter):  
+   https://www.anaconda.com/download
+
+2. Download this repository:
+Code → Download ZIP
+
+3. Open Jupyter Notebook and run the `.ipynb` file.
+Local execution is faster and does not depend on internet or Colab limits.
 
 **Dr. Gerardo Flores**  
 Associate Professor — Texas A&M International University (TAMIU)  
