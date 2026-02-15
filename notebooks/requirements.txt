@@ -1,6 +1,0 @@
-numpy
-scipy
-matplotlib
-ipywidgets
-jupyterlab_widgets
-seaborn
